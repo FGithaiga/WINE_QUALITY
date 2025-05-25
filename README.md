@@ -22,7 +22,6 @@ This dataset contains physicochemical properties of red wine samples, along with
 **Volatile acidity** tends to be higher in lower-quality wines.
 ![alt text](Images/image-1.png)
 
-**Quality** scores are mostly between 5 and 6.
 
 
 ## 2. Bivariate Analysis:
