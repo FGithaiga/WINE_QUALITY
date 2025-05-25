@@ -16,30 +16,30 @@ This dataset contains physicochemical properties of red wine samples, along with
 # ANALYSIS
 ## 1. Univariate Analysis:
 **Alcohol** and **sulphates** have right-skewed distributions.
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
 **Volatile acidity** tends to be higher in lower-quality wines.
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 **Quality** scores are mostly between 5 and 6.
 
 
 ## 2. Bivariate Analysis:
 Wines with higher **alcohol** content generally have higher quality ratings.
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 
 
 Higher **sulphates** and lower **volatile acidity** are associated with better wine quality.
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 
 
 - A correlation heatmap showed strong relationships between some variables like:
   - `free sulfur dioxide` and `total sulfur dioxide`
   - `density` and `residual sugar`
-  ![alt text](image-3.png)
+  ![alt text](Images/image-3.png)
 
 
 # CONCLUSION
